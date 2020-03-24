@@ -17,7 +17,7 @@ Empleamos eventos de teclado para cambiar los filtros.
 * OpenCV 4.0.0 & CVImage | por Bryan Chung
 
 # Notas de uso
-  Las librerias empleadas se incluyen en la carpeta del proyecto, "librerias", para su correcto funcionamiento tienen que ser copiadas en "libraries" dentro de la carpeta del sketchbook.
+  Para el funcionamiento del programa las librerias tienen que ser copiadas en "libraries" dentro de la carpeta de Processing, que suele encontrarse en Documentos.
 * La libreria *Video* se puede instalar mediante processing.
 * CVImage se puede descargar del siguiente link: [OpenCV & CVImage](http://www.magicandlove.com/blog/2018/11/22/opencv-4-0-0-java-built-and-cvimage-library/)
 
